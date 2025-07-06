@@ -10,5 +10,8 @@ URL: https://cdn.c4vxl.de/Linguise-models/pretrained-lstm-100.mdl
 
 URL: https://cdn.c4vxl.de/Linguise-models/eliza-lstm-50.mdl
 
+1. `not.mdl`: This model just answers with the opposite word of what you prompted it with
+URL: https://cdn.c4vxl.de/Linguise-models/not.mdl
+
 
 _Note that you can actually finetune or even train your own models using the [jNN-python library](https://github.com/c4vxl/jNN-python/)_

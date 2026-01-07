@@ -8,7 +8,9 @@ Architecture: LSTM
 
 URL: https://cdn.c4vxl.de/Linguise-models/not.mdl
 
-3. `Chatty.mdl`: The default Linguise model: A tiny friendly chatbot.
+<br>
+
+2. `Chatty.mdl`: The default Linguise model: A tiny friendly chatbot.
 
 Architecture: Transformer
 
